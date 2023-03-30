@@ -1,1 +1,6 @@
-print("Hello World")
+print("Zaazzzaaa")
+
+hola = "Hola"
+nombre = "Juan"
+
+print(hola + " " + nombre)
